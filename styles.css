@@ -1,0 +1,60 @@
+.intro {
+  text-align: center;
+  padding-top: 70px;
+  color: #2940d3;
+  font-size: 3.7rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+ol ul {
+  text-align: center;
+  width: 350px;
+}
+
+body {
+  background-color: #232323;
+}
+
+h3 {
+  color: #39a9cb;
+  text-align: center;
+  font-size: 1.8rem;
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+
+h4 {
+  color: #39a9cb;
+  text-align: center;
+  font-size: 1.3rem;
+  font-family: 'Baloo Tammudu 2', cursive;
+}
+
+.paragraph {
+  text-align: center;
+  position: relative;
+  font-size: 1.2rem;
+  color: #ffeda3;
+  font-family: 'Baloo Tammudu 2', cursive;
+  width: 600px;
+  left: 655px;
+}
+
+p {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #ffeda3;
+  font-family: 'Baloo Tammudu 2', cursive;
+  position: relative;
+}
+
+hr {
+  width: 75rem;
+}
+
+li {
+  text-align: center;
+  right: 50px;
+}
